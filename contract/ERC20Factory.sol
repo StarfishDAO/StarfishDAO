@@ -8,4 +8,3 @@ contract ERC20Factory {
 }
 
 
-
