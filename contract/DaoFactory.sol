@@ -53,4 +53,3 @@ contract DaoFactory {
         return _userDaos[user].daos.at(index);
     }
 }
-
