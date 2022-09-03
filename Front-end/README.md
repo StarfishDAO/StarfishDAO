@@ -1,4 +1,4 @@
-# StarfishDAO front-end
+# Front-end
 
 
 
